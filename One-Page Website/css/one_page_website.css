@@ -1,0 +1,22 @@
+/*==================================================
+    GENERAL STYLING
+===================================================*/
+
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 14pt;
+}
+
+/*==================================================
+    CONTACT FORM STYLING
+================================================*/
+
+.contact input[type="text"] {
+    width: 30%;
+    border-top: 1px solid #090B0D;
+    border-right: 2px solid #424549;
+    border-bottom: 2px solid #424549;
+    border-left: 1px solid #090B0D;
+    margin: 10px lem;
+    border-radius: 7px; 
+}
